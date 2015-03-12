@@ -1,0 +1,12 @@
+[ui-buttonmap]
+a = KEY_A
+b = KEY_B
+x = KEY_X
+y = KEY_Y
+lb = KEY_H
+rb = KEY_G
+lt = KEY_PAGEUP
+rt = KEY_PAGEDOWN
+ 
+tl = KEY_BACKSPACE
+tr = KEY_SPACE

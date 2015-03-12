@@ -1,0 +1,27 @@
+<code object physics at 0x7fa2b1bfef30, file "particles_example.py", line 66> 26.389663 19.180512 682 0
+<pygame.display.flip> 2.564856 2.564856 2742 0
+<code object draw at 0x7fa2b0402630, file "/usr/lib/python2.7/dist-packages/pygame/sprite.py", line 464> 4.277924 2.176743 2742 0
+<method 'blit' of 'pygame.Surface' objects> 2.0062 2.0062 2742000 0
+<method 'clip' of 'numpy.ndarray' objects> 1.93808 1.93808 686106 0
+<code object speedpaint at 0x7fa2b1bfeeb0, file "particles_example.py", line 39> 1.76649 1.33772 682000 0
+<method 'astype' of 'numpy.ndarray' objects> 1.143477 1.143477 682000 0
+<numpy.core.multiarray.array> 0.691509 0.691509 6848 0
+<code object clip at 0x7fa2a5bb4a30, file "/usr/lib/python2.7/dist-packages/numpy/core/fromnumeric.py", line 1564> 2.429528 0.491448 686106 0
+<method 'fill' of 'pygame.Surface' objects> 0.467975 0.467975 2742 0
+<code object calc_forces at 0x7fa2b1bfe7b0, file "particles_example.py", line 56> 1.485291 0.455996 682 0
+<math.hypot> 0.404592 0.404592 682000 0
+<min> 0.333138 0.333138 682000 0
+<code object centralforce at 0x7fa2b1bbfc30, file "particles_example.py", line 102> 0.311276 0.289487 1364 0
+<code object main at 0x7fa2b1bc7330, file "particles_example.py", line 141> 34.135056 0.254954 1 0
+<code object sprites at 0x7fa2b03cbf30, file "/usr/lib/python2.7/dist-packages/pygame/sprite.py", line 303> 0.15375 0.15375 4788 0
+<len> 0.095632 0.095632 682000 0
+<pygame.event.get> 0.081578 0.081578 2742 0
+<method 'random_sample' of 'mtrand.RandomState' objects> 0.02727 0.02727 682 0
+<code object randforce at 0x7fa2b1bc4a30, file "particles_example.py", line 115> 0.040438 0.013168 682 0
+<pygame.mouse.get_pos> 0.007669 0.007669 2742 0
+<code object centeratt at 0x7fa2b1bc7230, file "particles_example.py", line 123> 0.099103 0.006413 682 0
+<code object friction at 0x7fa2b1bc71b0, file "particles_example.py", line 119> 0.003965 0.003965 682 0
+<numpy.core.multiarray.zeros> 0.0039 0.0039 682 0
+<method 'reshape' of 'numpy.ndarray' objects> 0.003395 0.003395 1364 0
+<code object mouseflee at 0x7fa2b1bc43b0, file "particles_example.py", line 111> 0.220215 0.001629 682 0
+<method 'disable' of '_lsprof.Profiler' objects> 0.0 0.0 1 0
